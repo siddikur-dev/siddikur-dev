@@ -2,29 +2,23 @@
 <img src="https://i.ibb.co/Vc3HK8PM/banner.png" alt="Siddikur Rahman Banner" width="100%" />
 
 <h1 align="center">Hi! 👋 I'm Siddikur Rahman</h1>
+
 <p align="center">
-  <a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CED1&center=true&vCenter=true&width=435&lines=Tailwind+CSS+%7C+UI+Builder;React+%7C+Frontend+Lover;Continuous+Learner;Currently+exploring+Node.js+%26+MongoDB;JavaScript" alt="Typing SVG" />
-
-</a>
-
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CED1&center=true&vCenter=true&width=435&lines=Tailwind+CSS+%7C+UI+Builder;React+%7C+Frontend+Lover;Continuous+Learner;Currently+exploring+Node.js+%26+MongoDB;JavaScript" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-m Siddikur Rahman, a web development enthusiast from Bogura, Bangladesh 🇧🇩.
-I'm currently learning HTML, CSS, and React, and building simple projects to sharpen my skills.
-Exploring Node.js and MongoDB to step into full-stack development soon.
-
-
+I'm Siddikur Rahman, a web development enthusiast from **Bogura, Bangladesh 🇧🇩**.  
+Currently learning **React**, **HTML/CSS**, and building small but meaningful projects.  
+Exploring **Node.js** & **MongoDB** to dive into full-stack development soon.
 
 - 🖥️ Portfolio: [siddikur-portfolio.vercel.app](https://siddikur-portfolio.vercel.app/)
 - 📫 Email: [siddikur.dev@gmail.com](mailto:siddikur.dev@gmail.com)
 - 🌱 Learning: `Node.js`, `MongoDB`
-- 🤝 Open to collaboration on frontend & React projects
+- 🤝 Open to collaborate on frontend & React projects
 
 ---
 
@@ -59,16 +53,25 @@ Exploring Node.js and MongoDB to step into full-stack development soon.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddikur-dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddikur-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddikur-dev&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
 
+## 📌 Top Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddikur-dev&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=siddikur-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-> _“Clean code. Clear design. Continuous improvement.” — Siddikur Rahman_
+## 🔝 Top Contributed Repositories
 
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=siddikur-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" width="60%" />
+</p>
+
+---
+
+<p align="center"><i>“Clean code. Clear design. Continuous improvement.” — Siddikur Rahman</i></p>
