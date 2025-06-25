@@ -4,7 +4,8 @@
 <h1 align="center">Hi! 👋 I'm Siddikur Rahman</h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CED1&center=true&vCenter=true&width=435&lines=Currently+exploring+Node.js+%26+MongoDB;JavaScript+%7C+React+Lover;Tailwind+CSS+%7C+UI+Builder;Continuous+Learner+%26+Problem+Solver" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CED1&center=true&vCenter=true&width=435&lines=Tailwind+CSS+%7C+UI+Builder;React+%7C+Frontend+Lover;Continuous+Learner;Currently+exploring+Node.js+%26+MongoDB;JavaScript" alt="Typing SVG" />
+
 </a>
 
   </a>
