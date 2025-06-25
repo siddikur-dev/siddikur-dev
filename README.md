@@ -65,29 +65,10 @@ Exploring Node.js and MongoDB to step into full-stack development soon.
 
 ---
 
-## 🔥 Top Projects
 
-<p align="center">
-  <a href="https://github.com/siddikur-dev/js-book">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=siddikur-dev&repo=js-book&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/siddikur-dev/fruit-store">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=siddikur-dev&repo=fruit-store&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<br><br><br><br><br>
 
----
-
-## ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/siddikurdev">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-  </a>
-</p>
-
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=siddikur-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 > _“Clean code. Clear design. Continuous improvement.” — Siddikur Rahman_
 
