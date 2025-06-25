@@ -1,10 +1,13 @@
-<img src="https://i.ibb.co/Vc3HK8PM/banner.png"/>
+<p align="center">
+  <img src="https://i.ibb.co/Vc3HK8PM/banner.png" alt="banner" />
+</p>
 
-<h1 align="center">Hi, I'm Siddikur Rahman 👋</h1>
-<h3 align="center">Frontend Web Developer | JavaScript Enthusiast | UI Builder</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Siddikur+Rahman;Frontend+Web+Developer;JavaScript+%7C+React+%7C+Tailwind+Lover;Clean+UI+Craftsman+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A8" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  I'm a passionate frontend developer from Bogura, Bangladesh 🇧🇩, with a love for building responsive, user-friendly web interfaces using modern tools like <b>React</b>, <b>Tailwind CSS</b>, and <b>JavaScript</b>.
+  I'm a passionate frontend developer from Bogura, Bangladesh 🇧🇩. I build responsive and user-friendly web interfaces using <b>React</b>, <b>JavaScript</b>, and <b>Tailwind CSS</b>. I love clean UI, reusable code, and problem-solving.
 </p>
 
 ---
@@ -65,4 +68,3 @@
 
 > 💡 *"Clean code, clear UI, and continuous learning – that’s how I build."*  
 > — Siddikur Rahman
-
