@@ -4,7 +4,7 @@
 <h1 align="center">Hi! 👋 I'm Siddikur Rahman</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CED1&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;JavaScript+%7C+React+Lover;Tailwind+%7C+UI+Builder;Continuous+Learner+%26+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CED1&center=true&vCenter=true&width=435&lines=currently+exploring +Node.js+&+MongoDB ;JavaScript+%7C+React+Lover;Tailwind+%7C+UI+Builder;Continuous+Learner alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,9 +12,11 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate Frontend Developer from **Bogura, Bangladesh 🇧🇩**  
-I love building interactive UIs with **React**, **Tailwind**, and **JavaScript**.  
-Currently exploring **Node.js** and **MongoDB** for full-stack development.
+m Siddikur Rahman, a web development enthusiast from Bogura, Bangladesh 🇧🇩.
+I'm currently learning HTML, CSS, and React, and building simple projects to sharpen my skills.
+Exploring Node.js and MongoDB to step into full-stack development soon.
+
+
 
 - 🖥️ Portfolio: [siddikur-portfolio.vercel.app](https://siddikur-portfolio.vercel.app/)
 - 📫 Email: [siddikur.dev@gmail.com](mailto:siddikur.dev@gmail.com)
