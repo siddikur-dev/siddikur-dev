@@ -1,4 +1,4 @@
-![Animated Banner](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<img src="https://i.ibb.co/Vc3HK8PM/banner.png"/>
 
 <h1 align="center">Hi, I'm Siddikur Rahman 👋</h1>
 <h3 align="center">Frontend Web Developer | JavaScript Enthusiast | UI Builder</h3>
