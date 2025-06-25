@@ -11,14 +11,14 @@
 
 ## 👨‍💻 About Me
 
-I'm Siddikur Rahman, a web development enthusiast from **Bogura, Bangladesh 🇧🇩**.  
-Currently learning **React**, **HTML/CSS**, and building small but meaningful projects.  
-Exploring **Node.js** & **MongoDB** to dive into full-stack development soon.
+I'm **Siddikur Rahman**, a frontend-focused web developer from **Bogura, Bangladesh 🇧🇩**.  
+I love building responsive UIs using **React**, **Tailwind CSS**, and **JavaScript**.  
+Currently exploring **Node.js** & **MongoDB** to step into full-stack development.
 
 - 🖥️ Portfolio: [siddikur-portfolio.vercel.app](https://siddikur-portfolio.vercel.app/)
-- 📫 Email: [siddikur.dev@gmail.com](mailto:siddikur.dev@gmail.com)
+- 📧 Email: [siddikur.dev@gmail.com](mailto:siddikur.dev@gmail.com)
 - 🌱 Learning: `Node.js`, `MongoDB`
-- 🤝 Open to collaborate on frontend & React projects
+- 🤝 Open to collaboration on React-based frontend projects
 
 ---
 
@@ -50,26 +50,25 @@ Exploring **Node.js** & **MongoDB** to dive into full-stack development soon.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddikur-dev&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+<table align="center" border="1" cellspacing="0" cellpadding="10">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=siddikur-dev&show_icons=true&theme=tokyonight&hide_border=true" width="400px" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddikur-dev&layout=compact&theme=tokyonight&hide_border=true" width="400px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📌 Top Languages
+## 📌 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddikur-dev&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=siddikur-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" width="60%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=siddikur-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" width="80%" />
 </p>
 
 ---
