@@ -65,10 +65,10 @@ Currently exploring **Node.js** & **MongoDB** to step into full-stack developmen
 
 ---
 
-## 📌 Top Contributed Repositories
+## 📌 Top Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=siddikur-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" width="80%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=siddikur-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" style="max-width: 400px; height: auto;" />
 </p>
 
 ---
