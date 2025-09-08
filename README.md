@@ -13,8 +13,8 @@
 ## 👨‍💻 About Me
 
 I'm **Siddikur Rahman**, a frontend-focused web developer from **Bogura, Bangladesh**.  
-I love building responsive UIs using **React**, **Tailwind CSS**, and **JavaScript**.  
-Currently exploring **Node.js** & **MongoDB** to step into full-stack development.
+I love building responsive Uis using **React**, **Tailwind CSS**, and **JavaScript**.  
+Currently exploring **Node.js** & **MongoDB** to step into mern-stack development.
 
 - 🖥️ Portfolio: [siddikur-portfolio.vercel.app](https://siddikur-portfolio.vercel.app/)
 - 📧 Email: [siddikur.dev@gmail.com](mailto:siddikur.dev@gmail.com)
