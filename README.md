@@ -12,7 +12,7 @@
  
 ## 👨‍💻 About Me
 
-I'm **Siddikur Rahman**, a frontend-focused web developer from **Bogura, Bangladesh 🇧🇩**.  
+I'm **Siddikur Rahman**, a frontend-focused web developer from **Bogura, Bangladesh**.  
 I love building responsive UIs using **React**, **Tailwind CSS**, and **JavaScript**.  
 Currently exploring **Node.js** & **MongoDB** to step into full-stack development.
 
