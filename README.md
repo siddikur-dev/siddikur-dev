@@ -1,5 +1,5 @@
  <!-- Banner -->   
-<img src="https://i.ibb.co/Vc3HK8PM/banner.png" alt="Siddikur Rahman Banner" width="100%" /> 
+<img src="https://i.ibb.co/Vc3HK8PM/banner.png" alt="Siddikur Rahman Banner" width="100%" />  
    
 <h1 align="center">Hi! 👋 I'm Siddikur Rahman</h1>
 
