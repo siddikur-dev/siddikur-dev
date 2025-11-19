@@ -51,8 +51,8 @@ I enjoy solving real world problems, exploring new technologies and improving my
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=siddikur-dev&show_icons=true&theme=react&count_private=true" />
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddikur-dev&layout=compact&theme=react" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=siddikur-dev&show_icons=true&theme=react&count_private=true" />
   <img height="140" src="https://streak-stats.demolab.com/?user=siddikur-dev&theme=react" />
 </p>
 
@@ -66,7 +66,11 @@ I enjoy solving real world problems, exploring new technologies and improving my
   <a href="https://github.com/siddikur-dev/Toy-Universe">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddikur-dev&repo=Toy-Universe&theme=react" alt="Toy-Universe" />
   </a>
+  <a href="https://github.com/siddikur-dev/hero-store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddikur-dev&repo=hero-store&theme=react" alt="Hero Store" />
+  </a>
 </p>
+
 
 ---
 
