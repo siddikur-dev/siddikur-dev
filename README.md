@@ -53,7 +53,7 @@ I enjoy solving real world problems, exploring new technologies and improving my
 <div align="center" style="background:101828;padding:16px;border-radius:12px;display:inline-block">
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddikur-dev&layout=compact&bg_color=101828&theme=react" alt="Top Languages" style="vertical-align:middle;margin-right:12px;border-radius:8px" />
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=siddikur-dev&show_icons=true&bg_color=101828&theme=react&count_private=true" alt="GitHub Stats" style="vertical-align:middle;margin-right:12px;border-radius:8px" />
-  <img height="140" src="https://streak-stats.demolab.com/?user=siddikur-dev&bg_color=101828&theme=react" alt="Streak Stats" style="vertical-align:middle;border-radius:8px"/>
+  <img height="140" src="https://streak-stats.demolab.com/?user=siddikur-dev&theme=react&background=101828" alt="Streak Stats" style="vertical-align:middle;border-radius:8px"/>
 </div>
 
 ---
