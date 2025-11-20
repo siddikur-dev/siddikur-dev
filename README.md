@@ -50,27 +50,11 @@ I enjoy solving real world problems, exploring new technologies and improving my
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddikur-dev&layout=compact&theme=react" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=siddikur-dev&show_icons=true&theme=react&count_private=true" />
-  <img height="140" src="https://streak-stats.demolab.com/?user=siddikur-dev&theme=react" />
-</p>
-
----
-
-## 📌 Pinned Projects
-<p align="left">
-  <a href="https://github.com/siddikur-dev/CleanBangla-Client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddikur-dev&repo=CleanBangla-Client&theme=react" alt="CleanBangla" />
-  </a>
-  <a href="https://github.com/siddikur-dev/Toy-Universe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddikur-dev&repo=Toy-Universe&theme=react" alt="Toy-Universe" />
-  </a>
-  <a href="https://github.com/siddikur-dev/hero-store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddikur-dev&repo=hero-store&theme=react" alt="Hero Store" />
-  </a>
-</p>
-
+<div align="center" style="background:101828;padding:16px;border-radius:12px;display:inline-block">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddikur-dev&layout=compact&bg_color=101828&theme=react" alt="Top Languages" style="vertical-align:middle;margin-right:12px;border-radius:8px" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=siddikur-dev&show_icons=true&bg_color=101828&theme=react&count_private=true" alt="GitHub Stats" style="vertical-align:middle;margin-right:12px;border-radius:8px" />
+  <img height="140" src="https://streak-stats.demolab.com/?user=siddikur-dev&bg_color=101828&theme=react" alt="Streak Stats" style="vertical-align:middle;border-radius:8px"/>
+</div>
 
 ---
 
