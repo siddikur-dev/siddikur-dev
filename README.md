@@ -61,7 +61,6 @@ I enjoy solving real world problems, exploring new technologies and improving my
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=siddikur-dev&color=blue" alt="Profile Views"/>
 
 </div>
 
